@@ -1,0 +1,15 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Midterm",
+	"webDir": "dist",
+	"packageClassList": [
+		"AppPlugin",
+		"CAPCameraPlugin",
+		"GeolocationPlugin",
+		"CapacitorGoogleMapsPlugin",
+		"HapticsPlugin",
+		"KeyboardPlugin",
+		"PreferencesPlugin",
+		"StatusBarPlugin"
+	]
+}
